@@ -30,14 +30,14 @@ Hi, I'm Ivan George 👋 A B.Tech Computer Science student passionate about Mach
   
   <br><br>
   <p><strong>ML / Data Science</strong></p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&amp;theme=dark" alt="ML Tools" />
+  <img src="https://skillicons.dev/icons?i=sklearn&amp;theme=dark" alt="ML Tools" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=white" alt="Matplotlib" />
   
   <br><br>
   <p><strong>Databases & Tools</strong></p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&amp;theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github&amp;theme=dark" alt="Tools" />
 </div>
 
 ---
