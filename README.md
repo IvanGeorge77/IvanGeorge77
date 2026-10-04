@@ -40,28 +40,6 @@ Hi, I'm Ivan George 👋 A B.Tech Computer Science student passionate about Mach
   <img src="https://skillicons.dev/icons?i=mysql,git,github&amp;theme=dark" alt="Tools" />
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=IvanGeorge77&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=6e40c9&amp;icon_color=6e40c9&amp;text_color=c9d1d9&amp;ring_color=6e40c9" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGeorge77&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=6e40c9&amp;text_color=c9d1d9" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com?user=IvanGeorge77&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;ring=6e40c9&amp;fire=6e40c9&amp;currStreakLabel=6e40c9&amp;sideLabels=c9d1d9&amp;dates=8b949e&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9" alt="GitHub Streak" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=IvanGeorge77&amp;bg_color=0d1117&amp;color=6e40c9&amp;line=6e40c9&amp;point=c9d1d9&amp;area_color=6e40c9&amp;area=true&amp;hide_border=true" alt="Contribution Graph" />
-    </td>
-  </tr>
-</table>
 
 ---
 
